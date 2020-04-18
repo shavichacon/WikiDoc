@@ -13,7 +13,14 @@ Se adjuntan los siguientes manuales sobre la documentación de este software.
 
 ### Adicional
 
-Este markdown puede ser modificado y visualizado (preview) desde Visual Studio Code.
-Referencia utilizado donde se indica sintáxis y diferentes funcionalidades [acá](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops) 
+Este markdown puede ser modificado y visualizado (preview) desde Visual Studio Code.  
+
+Adjunto el siguiente link de referencia  donde se indica sintáxis y diferentes funcionalidades del markdown [link](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops) 
 
 ![giphy.gif](vs.gif)
+
+### Funcionalidades Principales
+1. Agregar .gif [example](user/Características-Básicas)
+2. Agregar segmentos de código java que incluye resaltar palabras reservadas del lenguaje especificado [example](techinal/Definición-Cup)
+3. Agregar imagenes
+4. Diferentes sintaxis para títulos, numeración, etc.
