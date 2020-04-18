@@ -20,7 +20,7 @@ Adjunto el siguiente link de referencia  donde se indica sintáxis y diferentes 
 ![giphy.gif](vs.gif)
 
 ### Funcionalidades Principales
-1. Agregar .gif [example](user/Características-Básicas)
-2. Agregar segmentos de código java que incluye resaltar palabras reservadas del lenguaje especificado [example](techinal/Definición-Cup)
+1. Agregar .gif [example](user/Características-Básicas.md)
+2. Agregar segmentos de código java que incluye resaltar palabras reservadas del lenguaje especificado [example](techinal/Definición-Cup.md)
 3. Agregar imagenes
 4. Diferentes sintaxis para títulos, numeración, etc.
